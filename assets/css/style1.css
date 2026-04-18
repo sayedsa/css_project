@@ -1,0 +1,252 @@
+body{
+
+    /* background-color: yellowgreen */
+}
+
+    .par3{
+
+        color: blue;
+        background-color: lightpink;
+        padding: 10px;
+        border-radius: 15px;
+    
+    }
+    .par3:hover{
+
+    background-color: lightgray;
+    color: darkblue;
+}   
+
+    .part2{
+
+        color: green;
+        background-color: lightgray;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    .part2:hover{
+
+    background-color: lightyellow;
+    color: darkgreen;
+}   
+
+.intro{
+
+        color: red;
+        background-color: yellow;
+        padding: 5px;
+        border-radius: 5px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+      
+        text-align: justify;
+}  
+ .titles{
+    margin-bottom: 20px;
+    margin-top: 5px;
+      text-align: center;
+    
+}
+  
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color: rgb(77, 13, 21);
+    background-color: lightgray;
+    padding: 15px; 
+    border-radius: 8px;
+    font-size: xx-large;
+   
+    text-align: center;
+    border: 2px solid black ;
+    width: 600px;   
+    margin: 0 auto;
+    margin-bottom:15px  ;
+ 
+}      
+    
+    .par1:hover{
+
+    background-color: rgb(52, 185, 58);
+    color: darkred;
+}
+
+.p{
+  margin-bottom: 5px;
+    color: purple;
+    background-color: lightblue;
+     text-align: center;
+     display: inline-block;
+        padding: 8px;
+        border-radius: 20px;
+        
+      
+         
+    }
+
+.p:hover{   
+
+    background-color: white;
+    color: darkpurple;
+}   
+
+.container{
+    height: 100vh;     
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding: 20px;
+    border: 2px solid black;
+    background-color: lightcyan;
+    border-radius: 12px;
+
+      overflow: auto;
+        height: fit-content;
+        width: fit-content;
+}       
+.players{
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bolder;
+    color: brown;
+    background-color: lightyellow;
+    padding: 15px; 
+    border-radius: 8px;
+    font-size: xx-large;
+   
+    text-align: center;
+    border: 2px solid black ;
+    width: 500px;   
+    margin: 0 auto;
+    margin-bottom:15px  ;
+
+    
+
+}
+.player1{
+
+    font-size: 20px;
+    color: rgb(5, 1, 1);
+    background-color: lightyellow;
+    padding: 15px; 
+    border-radius: 8px;
+    font-size:small;
+    display: inline-block;
+    border: 2px solid black ;
+    width: 300px;
+    margin-right: 20px;
+
+}
+.players:hover{
+
+    background-color: orange;
+    color: white;
+}   
+.block1{
+
+    display:inline-block;
+    margin-right: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: rgb(3, 2, 0);
+    background-color: lightgray;
+    text-align: center;
+   
+}
+ h2{
+
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: darkorange;
+  text-align: center;
+  display: inline;
+  
+} 
+h3{
+
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+  color: darkorange
+}
+
+h4{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+  color: darkorange ;
+}
+
+h5{
+
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+  color: darkorange
+}
+
+h6{
+
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+  color: darkorange
+}
+
+/* ul, h2:hover{
+    color: rgb(2, 0, 0);
+    background-color: rgb(0, 255, 149); */
+    
+/* }
+
+ul, h3:hover{
+    color: rgb(2, 0, 0);
+    background-color: rgb(0, 255, 149); */
+    
+
+    .notes{
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        display: block;
+        margin-top: 10px;
+ 
+        }
+
+.country{
+        font-family: 'Courier New', Courier, monospace;
+      
+        color: darkgreen;
+        background-color: rgb(153, 216, 163);        
+        padding: 10px;
+        border-radius: 5px;
+        margin-bottom: auto;  
+        margin-right: 10px ;  
+    }
+
+    .states{
+        font-family: 'Courier New', Courier, monospace;
+     
+        color: darkblue;
+        background-color: lightgray;
+        padding: 10px;
+        border-radius: 5px;
+        margin-bottom: auto;
+         margin-right: 10px ;  
+    }
+
+    .cities {
+        font-family: 'Courier New', Courier, monospace;
+       
+        color: darkred;
+        background-color: lightpink;
+        padding: 10px;
+        border-radius: 5px;
+        margin-bottom: auto;
+     
+    }   
+
+.container2{
+     
+    display: flex;
+    margin-right: 10px;
+    margin-left: 20px;
+    padding: 50px;
+    margin-bottom: 20px;
+    border: dotted;
+
+}
+    

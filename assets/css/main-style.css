@@ -1,0 +1,98 @@
+
+        body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    color: black;
+}
+
+.container {
+    display: flex; /* Establishes a flex container for the main layout */
+    gap: 20px; /* Provides space between the side and main sections */
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Side Section Styling */
+.side-section {
+    flex: 1; /* Allows the sidebar to grow, taking up 1 part of the available space */
+   background-color: #e4e4e9;
+    padding: 20px;
+    border-radius: 5px;
+    min-width: 200px; /* Prevents the sidebar from becoming too narrow */
+    margin-top: 17px;
+     text-align: center;
+}
+
+    .side-sec-background{
+        background-color: lightgreen;
+    }
+
+/* Main Section Styling */
+.main-section {
+    flex: 3; /* Allows the main section to grow, taking up 3 parts of the available space */
+    background-color: #e4e4e9;
+    padding: 20px;
+    border-radius: 5px;
+     margin-top: 15px;
+}
+
+/* Inner Container for 3 Columns (within Main Section) */
+.main-content-row {
+    display: flex; /* Establishes a flex container for the 3 columns */
+    gap: 15px; /* Space between the three columns */
+    margin-top: 15px;
+    text-align: center;
+}
+
+.column {
+    flex: 1; /* Makes all three columns equal width and fill the available space */
+    padding: 15px;
+    background-color: #bec4ca;
+    color: black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.section{
+    
+    background-color: lightgreen;
+   
+    text-align: center;
+}
+/* Basic styling for demonstration purposes */
+h2, h3 {
+    margin-top: 0;
+}
+ .logo{
+        height: 60px; /* Adjust based on your logo */
+        vertical-align: middle;
+    }
+.h3{
+
+    margin-bottom: 15px;
+    font: bolder;
+}
+
+.hero{
+    text-align: center;
+}
+.hero img{
+    margin-top: 40px;
+
+    /* background-image: url('/assets/images/soccer.jfif');
+    background-repeat: no-repeat; */
+    width: 1000px;
+    height: 500px;
+
+    
+}
+
+p{
+
+    padding: 20px;
+   margin: auto;
+   border: aqua;
+
+}

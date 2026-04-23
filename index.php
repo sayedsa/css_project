@@ -14,7 +14,7 @@
         <section class="hero">
             <div class="hero-copy">
                 <span class="eyebrow">Welcome to the Sports Hub</span>
-                <h1>Inspiring stories from the world's top teams</h1>
+                <h1>Inspiring stories from the world's top teams & Players</h1>
                 <p>Stay informed with premium team insights, player spotlights, and highlight reels curated for modern sports fans.</p>
                 <div class="hero-actions">
                     <a href="#top-teams" class="btn btn-primary">Explore Teams</a>

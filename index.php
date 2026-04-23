@@ -10,7 +10,6 @@
 
 <body>
     <?php include 'assets/header.php'; ?>
-
     <main>
         <section class="hero">
             <div class="hero-copy">

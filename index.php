@@ -25,7 +25,7 @@
 
             <!-- Main Section -->
             <main class="main-section">
-                <h2 class="section"> Our Top Teams & Top Players </h2>
+                <h2 class="section"> Our Top Teams & Top Players and teams </h2>
                 <div class="main-content-row">
                     <div class="column">
                         <h3>Alpha</h3>

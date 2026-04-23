@@ -17,6 +17,9 @@ jobs:
         uses: appleboy/ssh-action@v1.0.3
 
         env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+
+        with:
           host: ${{ secrets.SSH_HOST }}
           username: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_KEY }}

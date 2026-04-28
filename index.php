@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Professional Sports Hub</title>
-    <link rel="stylesheet" href="assets/css/main-style.css">
+    <link rel="stylesheet" href="/assets/css/main-style.css">
 </head>
 
 <body>
@@ -26,6 +26,7 @@
         <section class="overview-grid">
             <article class="overview-card">
                 <h2>Team Intelligence</h2>
+                    <h2>Team Intelligence</h2>
                 <p>Strong analysis, club performance metrics, and up-to-date results presented in a clear, professional format.</p>
             </article>
             <article class="overview-card">

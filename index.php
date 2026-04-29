@@ -25,7 +25,7 @@
 
         <section class="overview-grid">
             <article class="overview-card">
-                <h2>Team Intelligence added</h2>
+               
                     <h2>Team Intelligence</h2>
                 <p>Strong analysis, club performance metrics, and up-to-date results presented in a clear, professional format.</p>
             </article>
